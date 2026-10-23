@@ -1,6 +1,7 @@
 ## Voblaproj
 
-[![GPG key](https://github.com/voblaproj/voblaproj/blob/main/gpg.svg)](https://github.com/voblaproj/voblaproj/blob/main/gpg.key)
+[![GPG key](https://github.com/voblaproj/voblaproj/blob/main/gpg.svg)](https://gitlab.com/voblaproj.
+gpg)
 
 <!--
 **voblaproj/voblaproj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
